@@ -39,7 +39,7 @@ testleri geçtikten sonra otonom şekilde AWS Lambda fonksiyonlarına deploy
 ediliyor.
 
 Sayfamı Ziyaret Etmek İsterseniz:
-👉 [halitsen.online](https://halitsen.online/)
+👉 [halitsen.cloud](https://halitsen.cloud/)
 
 Projeyi daha iyi anlatabilmek için, tüm bileşenleri ve aralarındaki ilişkileri gösteren bir
 topolojik mimari diyagramı hazırladım. GitHub’dan AWS’ye, veritabanından Lambda
